@@ -1,2 +1,2 @@
 # GFG-POTD
-POTD solution
+POTD solution in java
